@@ -1,0 +1,7 @@
+{
+  "name": "LegalAI Assistant",
+  "description": "An AI-powered legal copilot for analyzing case files and drafting documents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
